@@ -10,6 +10,7 @@ function App() {
     <>
       <p className="text-4xl text-red-900 ">
         Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more
       </p>
     </>
   )
